@@ -1,7 +1,7 @@
 ### The Cloud Monk: 👋
 
 - 🔭 I’m currently working on [Kubernetes](https://DevopsCloud.io/doku.php?id=Kubernetes) and [GitOps](https://DevopsCloud.io/doku.php?id=GitOps)
-- 🌱 I’m currently learning [Cloud Native Java](https://DevopsCloud.io/doku.php?id=Cloud Native Java)-based [Quarkus](https://DevopsCloud.io/doku.php?id=Quarkus) and [Spring Microservices](https://DevopsCloud.io/doku.php?id=Spring Microservices) with K8S on AKS (Azure), EKS (AWS), GKS (GCP) with PostGres and MongoDB on Kubernetes with Istio Service Mesh
+- 🌱 I’m currently learning [Cloud Native Java](https://DevopsCloud.io/doku.php?id=Cloud Native Java)-based [Quarkus](https://DevopsCloud.io/doku.php?id=Quarkus) and [Spring Microservices](https://DevopsCloud.io/doku.php?id=Spring%20Microservices) with K8S on AKS (Azure), EKS (AWS), GKS (GCP) with PostGres and MongoDB on Kubernetes with Istio Service Mesh
 - 👯 I’m looking to collaborate on DevOps jobs remotely ONLY.
 - 🤔 I’m looking for help from Buddhist Masters on [Enlightenment](https://DevopsCloud.io/doku.php?id=enlightenment).
 - 💬 Ask me about the Buddha, Buddhism, Ayurvedic Medicine, DevOps-GitOps, Cloud Native, SpringBoot, Python, PowerShell, Windows Server 2022, [DokuWiki](https://github.com/splitbrain/dokuwiki)
