@@ -6,7 +6,7 @@
 - 🤔 I’m looking for help from [Buddhist Masters](https://DevopsCloud.io/doku.php?id=Buddhist%20Masters) on [Enlightenment](https://DevopsCloud.io/doku.php?id=enlightenment).
 - 💬 Ask me about the Buddha, Buddhism, [Ayurvedic Medicine](https://DevopsCloud.io/doku.php?id=Ayurvedic%20Medicine), [DevOps](https://DevopsCloud.io/doku.php?id=DevOps)-[GitOps](https://DevopsCloud.io/doku.php?id=GitOps), Cloud Native, [Spring Boot](https://DevopsCloud.io/doku.php?id=Spring%20Boot), [Python](https://DevopsCloud.io/doku.php?id=Python), [PowerShell](https://DevopsCloud.io/doku.php?id=PowerShell), [Windows Server 2022](https://DevopsCloud.io/doku.php?id=Windows%20Server%202022), [DokuWiki](https://github.com/splitbrain/dokuwiki)
 - 📫 How to reach me: https://DevopsCloud.io
-- ⚡ Fun fact: I was a [Buddhist Monk](https://DevopsCloud.io/doku.php?id=Buddhist%Monk) in the HH [Dalai Lama](https://DevopsCloud.io/doku.php?id=Dalai Lama) Tradition of [Nalanda Monastery](https://DevopsCloud.io/doku.php?id=Nalanda%20Monastery) ([Tibetan Buddhism](https://DevopsCloud.io/doku.php?id=Tibetan%20Buddhism))
+- ⚡ Fun fact: I was a [Buddhist Monk](https://DevopsCloud.io/doku.php?id=Buddhist%Monk) in the HH [Dalai Lama](https://DevopsCloud.io/doku.php?id=Dalai%20Lama) Tradition of [Nalanda Monastery](https://DevopsCloud.io/doku.php?id=Nalanda%20Monastery) ([Tibetan Buddhism](https://DevopsCloud.io/doku.php?id=Tibetan%20Buddhism))
 
 ### :octopus: Octo-Ring
 
