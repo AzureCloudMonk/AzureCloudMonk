@@ -1,12 +1,12 @@
 ### The Cloud Monk: 👋
 
 - 🔭 I’m currently working on [Kubernetes](https://DevopsCloud.io/doku.php?id=Kubernetes) and [GitOps](https://DevopsCloud.io/doku.php?id=GitOps)
-- 🌱 I’m currently learning [Cloud Native Java](https://DevopsCloud.io/doku.php?id=Cloud Native Java)-based [Quarkus](https://DevopsCloud.io/doku.php?id=Quarkus) and [Spring Microservices](https://DevopsCloud.io/doku.php?id=Spring%20Microservices) with K8S on AKS (Azure), EKS (AWS), GKS (GCP) with PostGres and MongoDB on Kubernetes with Istio Service Mesh
+- 🌱 I’m currently learning [Cloud Native Java](https://DevopsCloud.io/doku.php?id=Cloud%20Native%20Java)-based [Quarkus](https://DevopsCloud.io/doku.php?id=Quarkus) and [Spring Microservices](https://DevopsCloud.io/doku.php?id=Spring%20Microservices) with [K8S](https://DevopsCloud.io/doku.php?id=K8S] on [AKS](https://DevopsCloud.io/doku.php?id=AKS) ([Azure](https://DevopsCloud.io/doku.php?id=Azure)), [EKS](https://DevopsCloud.io/doku.php?id=EKS) ([AWS](https://DevopsCloud.io/doku.php?id=AWS)), [GKS](https://DevopsCloud.io/doku.php?id=GKS) ([GCP](https://DevopsCloud.io/doku.php?id=GCP)) with [PostGres](https://DevopsCloud.io/doku.php?id=PostGres) and [MongoDB](https://DevopsCloud.io/doku.php?id=MongoDB) on Kubernetes with [Istio](https://DevopsCloud.io/doku.php?id=Istio) [Service Mesh](https://DevopsCloud.io/doku.php?id=Service%20Mesh)
 - 👯 I’m looking to collaborate on DevOps jobs remotely ONLY.
-- 🤔 I’m looking for help from Buddhist Masters on [Enlightenment](https://DevopsCloud.io/doku.php?id=enlightenment).
-- 💬 Ask me about the Buddha, Buddhism, Ayurvedic Medicine, DevOps-GitOps, Cloud Native, SpringBoot, Python, PowerShell, Windows Server 2022, [DokuWiki](https://github.com/splitbrain/dokuwiki)
+- 🤔 I’m looking for help from [Buddhist Masters](https://DevopsCloud.io/doku.php?id=Buddhist%20Masters) on [Enlightenment](https://DevopsCloud.io/doku.php?id=enlightenment).
+- 💬 Ask me about the Buddha, Buddhism, [Ayurvedic Medicine](https://DevopsCloud.io/doku.php?id=Ayurvedic%20Medicine), [DevOps](https://DevopsCloud.io/doku.php?id=DevOps)-[GitOps](https://DevopsCloud.io/doku.php?id=GitOps), Cloud Native, [Spring Boot](https://DevopsCloud.io/doku.php?id=Spring%20Boot), [Python](https://DevopsCloud.io/doku.php?id=Python), [PowerShell](https://DevopsCloud.io/doku.php?id=PowerShell), [Windows Server 2022](https://DevopsCloud.io/doku.php?id=Windows%20Server%202022), [DokuWiki](https://github.com/splitbrain/dokuwiki)
 - 📫 How to reach me: https://DevopsCloud.io
-- ⚡ Fun fact: I was a Buddhist Monk in the HH Dalai Lama Tradition of Nalanda Monastery (Tibetan Buddhism)
+- ⚡ Fun fact: I was a [Buddhist Monk](https://DevopsCloud.io/doku.php?id=Buddhist%Monk) in the HH [Dalai Lama](https://DevopsCloud.io/doku.php?id=Dalai Lama) Tradition of [Nalanda Monastery](https://DevopsCloud.io/doku.php?id=Nalanda%20Monastery) ([Tibetan Buddhism](https://DevopsCloud.io/doku.php?id=Tibetan%20Buddhism))
 
 ### :octopus: Octo-Ring
 
