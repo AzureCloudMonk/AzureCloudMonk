@@ -1,5 +1,20 @@
 ### The Cloud Monk: 👋
 
+class CloudMonk:
+
+	def __init__(self):
+		self.work = CloudMonk("Cloud Native DevOps Engineer")
+		self.oss = Kubernetes("Consultant")
+		self.home = USA("Silicon Valley")
+
+	async def run(self, inputs: Union[Vegetables, Tea]) -> None:
+		while True:
+			await self.work.do(inputs)
+			await self.oss.do(inputs)
+		
+	def sleep(self):
+		raise NotImplementedError
+
 - 🔭 I’m currently working on [Kubernetes](https://DevopsCloud.io/doku.php?id=Kubernetes) / [Red Hat OpenShift](https://DevopsCloud.io/doku.php?id=Red%20Hat%20OpenShift)  and [GitOps](https://DevopsCloud.io/doku.php?id=GitOps)
 - 🌱 I’m currently [focused](https://DevopsCloud.io/doku.php?id=focused) on [Cloud Native Java](https://DevopsCloud.io/doku.php?id=Cloud%20Native%20Java)-based [Quarkus](https://DevopsCloud.io/doku.php?id=Quarkus) and [Spring Microservices](https://DevopsCloud.io/doku.php?id=Spring%20Microservices) with [K8S](https://DevopsCloud.io/doku.php?id=K8S]) on [AKS](https://DevopsCloud.io/doku.php?id=AKS) ([Azure](https://DevopsCloud.io/doku.php?id=Azure)), [EKS](https://DevopsCloud.io/doku.php?id=EKS) ([AWS](https://DevopsCloud.io/doku.php?id=AWS)), [GKS](https://DevopsCloud.io/doku.php?id=GKS) ([GCP](https://DevopsCloud.io/doku.php?id=GCP)) with [PostGres](https://DevopsCloud.io/doku.php?id=PostGres) and [MongoDB](https://DevopsCloud.io/doku.php?id=MongoDB) on Kubernetes with [Istio](https://DevopsCloud.io/doku.php?id=Istio) [Service Mesh](https://DevopsCloud.io/doku.php?id=Service%20Mesh)
 - Experimenting with [Kotlin Mobile SDK](https://DevopsCloud.io/doku.php?id=Kotlin%20Mobile%20SDK) for [Kotlin on Android](https://DevopsCloud.io/doku.php?id=Kotlin%20on%20Android) and [Kotlin on iOS](https://DevopsCloud.io/doku.php?id=Kotlin%20on%20iOS)
