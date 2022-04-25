@@ -5,7 +5,7 @@ class CloudMonk:
 	def __init__(self):
 		self.work = CloudMonk("Cloud Native DevOps Engineer")
 		self.oss = Kubernetes("Consultant")
-		self.home = USA("Silicon Valley")
+		self.home = USA("Pacific Mountain Northwest")
 
 	async def run(self, inputs: Union[Vegetables, Tea]) -> None:
 		while True:
